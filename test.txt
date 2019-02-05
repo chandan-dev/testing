@@ -1,1 +1,5 @@
 my first git commit by using command prompt.
+hello world.
+imit, cuttack
+chandan kumar palei
+bhubaneswar
